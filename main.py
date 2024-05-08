@@ -3,9 +3,7 @@ from tkinter import *
 from tkinter import messagebox
 import random
 
-from defs import Def
 
-# defs= Def()
 quest = 1
 game_running = False
 lista_escolhas = []
